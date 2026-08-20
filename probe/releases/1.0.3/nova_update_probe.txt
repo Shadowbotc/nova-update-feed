@@ -1,0 +1,9 @@
+NOVA LIVE UPDATE PROBE
+
+Version: 1.0.3
+Publisher: NOVA
+Status: healthy
+
+This update was installed by Nova's production RemoteArtifactUpdater.
+
+The acceptance prototype is no longer responsible for this installation.
