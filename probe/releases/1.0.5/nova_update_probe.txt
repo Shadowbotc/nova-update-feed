@@ -1,0 +1,9 @@
+NOVA LIVE UPDATE PROBE
+
+Version: 1.0.5
+Publisher: NOT-NOVA
+Status: healthy
+
+This payload deliberately claims the wrong publisher.
+
+Nova must block this candidate and must not install it.
