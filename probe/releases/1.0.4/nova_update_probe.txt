@@ -1,0 +1,9 @@
+NOVA LIVE UPDATE PROBE
+
+Version: 1.0.4
+Publisher: NOVA
+Status: healthy
+
+This update was discovered and installed automatically through Nova's permanent managed daily maintenance path.
+
+No acceptance diagnostic bridge and no manual updater check were used.
