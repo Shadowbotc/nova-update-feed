@@ -1,0 +1,10 @@
+NOVA LIVE UPDATE PROBE
+
+Version: 1.0.8
+Publisher: NOVA
+Status: healthy
+
+This release was discovered and installed through Nova's persistent
+configuration-driven managed update source.
+
+No updater construction or registration was supplied by the launch script.
