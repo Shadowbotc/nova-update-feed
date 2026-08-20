@@ -1,0 +1,10 @@
+NOVA LIVE UPDATE PROBE
+
+Version: 1.0.6
+Publisher: NOVA
+Status: broken
+
+This release has valid identity, publisher and integrity.
+
+Nova is allowed to attempt this safe patch, but the mandatory health
+verification must fail and Nova must physically restore version 1.0.4.

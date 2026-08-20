@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "artifact_id": "nova-live-update-probe",
+  "name": "Nova Live Update Probe",
+  "version": "1.0.6",
+  "publisher": "NOVA",
+  "classification": "safe_patch",
+  "permissions": [],
+  "health_contract": {
+    "required_status": "healthy"
+  },
+  "payload": {
+    "filename": "nova_update_probe.txt",
+    "sha256": "96493ff83a8e87b94e12dd9173d65b258b5cdb4fb50583c91c9494e00814e275",
+    "url": "https://raw.githubusercontent.com/Shadowbotc/nova-update-feed/main/probe/releases/1.0.6/nova_update_probe.txt"
+  }
+}
