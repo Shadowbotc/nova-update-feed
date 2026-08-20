@@ -1,0 +1,10 @@
+NOVA LIVE UPDATE PROBE
+
+Version: 1.0.7
+Publisher: NOVA
+Status: healthy
+
+This is the healthy recovery release after the quarantined 1.0.6 update.
+
+Nova should evaluate this new immutable release normally, install it
+automatically, and clear the old failed-candidate quarantine.
