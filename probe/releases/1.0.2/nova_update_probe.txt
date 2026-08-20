@@ -1,0 +1,9 @@
+NOVA LIVE UPDATE PROBE
+
+Version: 1.0.2
+Publisher: NOVA
+Status: healthy
+
+Nova discovered and installed this update through its automatic daily diagnostic update check.
+
+No manual Nova update-check command was used to install this version.
