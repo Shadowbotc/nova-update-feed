@@ -1,0 +1,9 @@
+NOVA LIVE UPDATE PROBE
+
+Version: 1.0.1
+Publisher: NOVA
+Status: healthy
+
+Nova updated this file automatically from the public GitHub update feed.
+
+This is the first real remote patch update installed after version 1.0.0.
