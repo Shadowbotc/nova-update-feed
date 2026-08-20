@@ -1,0 +1,10 @@
+NOVA LIVE UPDATE PROBE
+
+Version: 1.1.0
+Publisher: NOVA
+Status: healthy
+
+This is a feature-level update.
+
+Nova must detect this release but must not install it automatically.
+Explicit approval is required.
