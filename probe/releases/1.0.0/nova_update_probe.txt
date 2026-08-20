@@ -1,0 +1,8 @@
+NOVA LIVE UPDATE PROBE
+
+Version: 1.0.0
+Publisher: NOVA
+Status: healthy
+
+This is the original remotely published Nova update probe.
+If Nova installs this file successfully, remote update delivery is working.
