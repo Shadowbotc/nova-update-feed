@@ -4,7 +4,10 @@ Version: 1.1.0
 Publisher: NOVA
 Status: healthy
 
-This is a feature-level update.
+This is a real feature-level Nova update candidate.
 
-Nova must detect this release but must not install it automatically.
-Explicit approval is required.
+Because this changes the minor version from 1.0.8 to 1.1.0,
+Nova must not install it automatically.
+
+Nova should preserve the currently installed 1.0.8 file and create
+an exact immutable pending approval request for this release.

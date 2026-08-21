@@ -4,14 +4,14 @@
   "name": "Nova Live Update Probe",
   "version": "1.1.0",
   "publisher": "NOVA",
-  "classification": "feature_update",
+  "classification": "safe_patch",
   "permissions": [],
   "health_contract": {
     "required_status": "healthy"
   },
   "payload": {
     "filename": "nova_update_probe.txt",
-    "sha256": "69e63bb8f58450aebdac78c767bf6c73c0f0f76be00f6e3528f44225891385ef",
+    "sha256": "faa24f756c2c375fc0cda5d3d84078181f9f88269500c7c5693d5423dcf688bc",
     "url": "https://raw.githubusercontent.com/Shadowbotc/nova-update-feed/main/probe/releases/1.1.0/nova_update_probe.txt"
   }
 }
